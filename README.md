@@ -25,11 +25,11 @@
 
 ## Tela Home:
 
-![Tela01](./Telas/img1.jpeg)
+![Tela01](./Telas/img2.jpeg)
 
 ## Tela Cursos:
 
-![Tela01](./Telas/img2.jpeg)
+![Tela01](./Telas/img1.jpeg)
 
 ## Tela Matricula:
 
